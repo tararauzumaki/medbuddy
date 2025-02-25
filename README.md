@@ -12,6 +12,9 @@ MedBuddy is an AI-powered **medical assistant** that transforms a static medical
 ✅ **Interactive UI** – Built with **Gradio** for seamless chat interactions.  
 
 ---
+## 🚀 Try MedBuddy Now!  
+🔗 **Live Demo:** [MedBuddy on Hugging Face](https://huggingface.co/spaces/tararauzumaki/medbuddy)  
+---
 
 ## 🚀 How It Works  
 
@@ -56,11 +59,11 @@ def create_db():
 ---
 
 ## 3️⃣ Setting Up the AI-Powered Query System
-MedBuddy's RetrievalQA chain is fine-tuned with a custom medical prompt that:
-✔ Explains symptoms clearly using simple language.
-✔ Warns about urgent symptoms ⚠️.
-✔ Encourages professional medical consultation.
-✔ Provides Bangladesh-specific diet recommendations.
+MedBuddy's RetrievalQA chain is fine-tuned with a custom medical prompt that:</br>
+✔ Explains symptoms clearly using simple language.</br>
+✔ Warns about urgent symptoms ⚠️.</br>
+✔ Encourages professional medical consultation.</br>
+✔ Provides Bangladesh-specific diet recommendations.</br>
 ✔ Uses internationally recognized medical journals.
 
 ```python
@@ -159,9 +162,9 @@ If you experience severe symptoms, seek immediate medical attention! 🚑
 ---
 
 ## 📌 Why Use MedBuddy?
-✔ **Instant Medical Information** – No need to manually search lengthy medical texts.
-✔ **Easy-to-Understand** – Simplifies complex medical terms.
-✔ **Bangladesh-Specific Advice** – Provides localized dietary recommendations.
+✔ **Instant Medical Information** – No need to manually search lengthy medical texts.</br>
+✔ **Easy-to-Understand** – Simplifies complex medical terms.</br>
+✔ **Bangladesh-Specific Advice** – Provides localized dietary recommendations.</br>
 ✔ **AI-Powered Smart Responses** – Uses cutting-edge AI to generate relevant medical insights.
 
 ---
@@ -192,7 +195,7 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 ---
 
 ## 🌟 Acknowledgments
-Special thanks to my wife **Sadia Islam**, who inspired this project! ❤️
+Special thanks to **Sadia Islam**, who inspired this project! ❤️
  
 
 🚀 *Stay informed with MedBuddy!*  
