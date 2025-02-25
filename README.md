@@ -28,8 +28,9 @@ def initial_llm():
         model_name="llama-3.3-70b-versatile"
     )
     return llm
+```
 
-# MedBuddy: Your AI Medical Assistant 🏥🤖
+---
 
 ## 2️⃣ Creating the Medical Knowledge Database
 To enable fast and accurate retrieval, MedBuddy embeds the encyclopedia into ChromaDB.
