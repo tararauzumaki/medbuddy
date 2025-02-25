@@ -89,9 +89,9 @@ Response:"""
 ---
 
 ## 4️⃣ Processing User Queries
-When a user submits a question:
-🔹 MedBuddy searches ChromaDB for relevant medical data.
-🔹 The AI analyzes the query and retrieves an appropriate response.
+When a user submits a question:</br>
+🔹 MedBuddy searches ChromaDB for relevant medical data.</br>
+🔹 The AI analyzes the query and retrieves an appropriate response. </br>
 🔹 The chatbot formats the output for easy understanding.
 
 ```python
